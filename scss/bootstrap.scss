@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /******* Customized Bootstrap ********/
 
 $primary: #3CB815;
@@ -29,4 +30,37 @@ $link-decoration: none;
 
 $enable-negative-margins: true;
 
+=======
+/******* Customized Bootstrap ********/
+
+$primary: #3CB815;
+$secondary: #F65005;
+$light: #F7F8FC;
+$dark: #111111;
+
+$font-family-base: 'Open Sans', sans-serif;
+
+$headings-font-family: 'Lora', serif;
+
+$body-color: #555555;
+
+$headings-color: $dark;
+
+$headings-font-weight: 600;
+
+$display-font-weight: 700;
+
+$enable-responsive-font-sizes: true;
+
+$border-radius: 0;
+
+$border-radius-sm: $border-radius;
+
+$border-radius-lg: $border-radius;
+
+$link-decoration: none;
+
+$enable-negative-margins: true;
+
+>>>>>>> 077c8bd812b788483955761faa0579bd375b99a5
 @import "bootstrap/scss/bootstrap";
